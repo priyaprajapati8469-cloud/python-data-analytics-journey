@@ -34,3 +34,25 @@ Practice File: "basics.ipynb"
 Learning Progress
 
 This repository will be updated regularly with my Python concepts, practice programs, and projects as I continue building my skills for a career in Data Analytics.
+
+
+
+
+
+
+Day 2 — Python Operators
+
+Today I learned about different types of operators in Python:
+
+- Arithmetic Operators — "+", "-", "", "/", "%", "//", "*"
+- Assignment Operators — "=", "+=", "-=", "*=", "/=", etc.
+- Comparison Operators — "==", "!=", ">", "<", ">=", "<="
+- Logical Operators — "and", "or", "not"
+- Identity Operators — "is", "is not"
+- Membership Operators — "in", "not in"
+
+ Practice
+
+I practiced these operators using Python programs and examples.
+
+Practice File:"operators.ipynb"
