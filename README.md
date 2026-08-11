@@ -38,8 +38,6 @@ This repository will be updated regularly with my Python concepts, practice prog
 
 
 
-
-
 Day 2 — Python Operators
 
 Today I learned about different types of operators in Python:
@@ -51,8 +49,20 @@ Today I learned about different types of operators in Python:
 - Identity Operators — "is", "is not"
 - Membership Operators — "in", "not in"
 
- Practice
-
 I practiced these operators using Python programs and examples.
 
 Practice File:"operators.ipynb"
+
+
+
+Day 3 – Python Data Structures and Control Flow
+
+- Lists: Learned list operations such as append(), insert(), pop(), clear(), len(),etc
+- Tuples: Learned about tuples and their properties.
+- Sets: Learned about sets and set operations.
+- Dictionaries: Learned about dictionaries and key-value pairs.
+- Conditional Statements: Learned if, elif, and else.
+- Loops: Learned for and while loops.
+- Loop Control Statements: break ,continue and Pass
+
+  Practice File: DS_&_control_flow.ipynb
