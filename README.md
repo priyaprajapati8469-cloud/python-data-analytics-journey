@@ -66,3 +66,13 @@ Day 3 – Python Data Structures and Control Flow
 - Loop Control Statements: break ,continue and Pass
 
   Practice File: DS_&_control_flow.ipynb
+
+  
+
+Day 4 - Student Marks Dashboard
+
+This is a Python mini project that stores student names and marks, sorts students based on their marks, and identifies top scorers.
+
+The project helped me practice Python concepts such as lists, dictionaries, sorting, filtering, and user input.
+
+Project: student_miniproject.py
