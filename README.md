@@ -76,3 +76,22 @@ This is a Python mini project that stores student names and marks, sorts student
 The project helped me practice Python concepts such as lists, dictionaries, sorting, filtering, and user input.
 
 Project: student_miniproject.py
+
+
+
+Day 5– Python Concepts
+
+
+Today I learned several important Python concepts:
+
+- Error Handling & Exceptions
+- Object-Oriented Programming (OOP)
+- Date & Time
+- List, Set & Dictionary Comprehensions
+- File Input & Output
+- CSV File Handling
+
+These concepts helped me understand how Python handles errors, works with files and data, and supports writing structured and reusable code.
+
+Learning Progress: Building strong Python fundamentals for my Data Analytics journey.
+practice file :Error_&_Exception.ipynb
