@@ -95,3 +95,18 @@ These concepts helped me understand how Python handles errors, works with files 
 
 Learning Progress: Building strong Python fundamentals for my Data Analytics journey.
 practice file :Error_&_Exception.ipynb
+
+
+Day 6 – Data Analytics Learning Journey
+
+Today, I completed 10 data analysis practice questions as part of a mini project.
+
+Through this practice, I worked on:
+• Understanding the dataset
+• Analyzing the data to find useful insights
+• Applying Python concepts to real data
+• Practicing problem-solving and analytical thinking
+
+Each small project is helping me become more comfortable with working with data and improving my analytical skills.
+practice file: sales_data_analyzer.ipynb
+
