@@ -110,3 +110,16 @@ Through this practice, I worked on:
 Each small project is helping me become more comfortable with working with data and improving my analytical skills.
 practice file: sales_data_analyzer.ipynb
 
+
+Day 7-Data Analytics Learning Journey
+
+Today I learned the basics of Pandas for Data Analytics.
+
+- Created DataFrames using "pd.DataFrame()" and explored data using "head()", "tail()", "info()" and "describe()".
+- Learned about "shape" and "columns" to understand dataset structure.
+- Practiced selecting single and multiple columns.
+- Learned Boolean filtering with single and multiple conditions using "&" (AND) and "|" (OR).
+- Learned how to read JSON files using "pd.read_json()".
+- Practiced exporting DataFrames to CSV, Excel and JSON using "to_csv()", "to_excel()" and "to_json()".
+- VS Code Practice:save.py & rows.py
+
