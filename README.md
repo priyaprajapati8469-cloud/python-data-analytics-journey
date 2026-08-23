@@ -123,3 +123,24 @@ Today I learned the basics of Pandas for Data Analytics.
 - Practiced exporting DataFrames to CSV, Excel and JSON using "to_csv()", "to_excel()" and "to_json()".
 - VS Code Practice:save.py & rows.py
 
+Day 8-Data Analytics Learning Journey
+
+Today, I continued my Python Data Analytics journey by practicing Pandas and exploring several important data manipulation techniques.
+
+- Creating DataFrames from dictionaries
+- Adding, inserting, updating, and deleting columns
+- Updating individual values using `loc[]`
+- Identifying and handling missing values using `isnull()`, `dropna()`, `fillna()` and `interpolate()`
+- Sorting data using `sort_values()`
+-Performing aggregation using `sum()`, `mean()`, `min()`, `max()`, `count()` and `std()`
+-Grouping data using `groupby()`
+-Merging DataFrames using Inner, Left, Right and Outer joins
+-Concatenating datasets vertically and horizontally using `concat()`
+
+Today's practice helped me better understand how Pandas can be used for **data cleaning, transformation, manipulation, and analysis.
+
+GitHub: Python2.py
+
+
+
+
