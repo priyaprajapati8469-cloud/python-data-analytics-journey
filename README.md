@@ -139,7 +139,23 @@ Today, I continued my Python Data Analytics journey by practicing Pandas and exp
 
 Today's practice helped me better understand how Pandas can be used for **data cleaning, transformation, manipulation, and analysis.
 
-GitHub: Python2.py
+Practice File: Python2.py
+
+ Day 8– NumPy Array Creation Methods
+
+Today I started learning NumPy and practiced different methods for creating arrays.
+
+ Topics Covered
+* 1D and 2D arrays using `np.array()`
+* Multidimensional arrays and matrices
+* `np.zeros()` and `np.ones()`
+* `np.full()` for filling arrays
+* `np.arange()` for creating number sequences
+* `np.eye()` for creating identity matrices
+
+This practice helped me understand the basic structure and creation of NumPy arrays for Data Analytics and numerical operations.
+practice File:num1.py
+
 
 
 
