@@ -141,7 +141,7 @@ Today's practice helped me better understand how Pandas can be used for **data c
 
 Practice File: Python2.py
 
- Day 8– NumPy Array Creation Methods
+ Day 8– Data Analytics Learning Journey
 
 Today I started learning NumPy and practiced different methods for creating arrays.
 
@@ -155,6 +155,20 @@ Today I started learning NumPy and practiced different methods for creating arra
 
 This practice helped me understand the basic structure and creation of NumPy arrays for Data Analytics and numerical operations.
 practice File:num1.py
+
+
+📚 Day 9-Data Analytics Learning Journey
+
+Today I learned more about NumPy arrays and their attributes.
+* Practiced shape, size, ndim, and dtype to understand arrays.
+* Learned how to change data types using astype().
+* Practiced element-wise operations like +, -, *, /, **, and //.
+* Explored NumPy aggregation functions such as sum(), min(), max(), and mean().
+* Also learned std() for standard deviation and var() for variance.
+ Practiced everything with Python and NumPy in VS Code.
+ Continuing my journey toward becoming a Data Analyst!
+
+ practice file:numpy_array_property.py
 
 
 
