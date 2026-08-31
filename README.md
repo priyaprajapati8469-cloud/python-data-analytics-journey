@@ -141,7 +141,7 @@ Today's practice helped me better understand how Pandas can be used for **data c
 
 Practice File: Python2.py
 
- Day 8– Data Analytics Learning Journey
+ Day 9– Data Analytics Learning Journey
 
 Today I started learning NumPy and practiced different methods for creating arrays.
 
@@ -157,7 +157,7 @@ This practice helped me understand the basic structure and creation of NumPy arr
 practice File:num1.py
 
 
-Day 9-Data Analytics Learning Journey
+Day 10-Data Analytics Learning Journey
 
 Today I learned more about NumPy arrays and their attributes.
 * Practiced shape, size, ndim, and dtype to understand arrays.
@@ -170,7 +170,7 @@ Today I learned more about NumPy arrays and their attributes.
 
  practice file:numpy_array_property.py
 
-  Day 10-Data Analytics Learning Journey
+  Day 11-Data Analytics Learning Journey
   Today I learned how to access and filter elements in NumPy arrays.
 
 *Indexing – Accessing a specific element using its index.
