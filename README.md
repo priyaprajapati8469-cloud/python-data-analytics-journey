@@ -157,18 +157,37 @@ This practice helped me understand the basic structure and creation of NumPy arr
 practice File:num1.py
 
 
-📚 Day 9-Data Analytics Learning Journey
+Day 9-Data Analytics Learning Journey
 
 Today I learned more about NumPy arrays and their attributes.
 * Practiced shape, size, ndim, and dtype to understand arrays.
 * Learned how to change data types using astype().
 * Practiced element-wise operations like +, -, *, /, **, and //.
 * Explored NumPy aggregation functions such as sum(), min(), max(), and mean().
-* Also learned std() for standard deviation and var() for variance.
+ Also learned std() for standard deviation and var() for variance.
  Practiced everything with Python and NumPy in VS Code.
  Continuing my journey toward becoming a Data Analyst!
 
  practice file:numpy_array_property.py
+
+  Day 10-Data Analytics Learning Journey
+  Today I learned how to access and filter elements in NumPy arrays.
+
+*Indexing – Accessing a specific element using its index.
+*Slicing– Extracting multiple elements from an array.
+*Fancy Indexing – Selecting multiple elements at once using an index array.
+*Boolean Indexing / Masking – Filtering elements based on a condition.
+
+I also practiced:
+ 1D array indexing
+ Positive & negative indexing
+ Array slicing with start, stop & step
+ Selecting multiple elements
+ Filtering values using conditions
+
+Another step forward in my Python & Data Analytics journey!
+
+
 
 
 
