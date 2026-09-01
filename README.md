@@ -186,6 +186,7 @@ I also practiced:
  Filtering values using conditions
 
 Another step forward in my Python & Data Analytics journey!
+
 practice file:np_indexing&slicing.py
 
 
