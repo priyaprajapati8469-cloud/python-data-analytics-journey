@@ -190,6 +190,29 @@ Another step forward in my Python & Data Analytics journey!
 practice file:np_indexing&slicing.py
 
 
+ Day 12-Data Analytics Learning Journey
+NumPy – Reshaping, Flattening & Handling Missing Values
+Today I practiced some useful NumPy operations for working with arrays.
+
+ Reshaping Arrays
+* reshape(rows, columns) is used to change the shape of an array.
+* The total number of elements must remain the same.
+* 
+ Flattening Arrays
+Flattening converts a multidimensional array into a 1D array.
+* ravel() → returns a view of the original data when possible.
+* flatten() → returns a copy of the original data.
+
+ Handling Missing & Infinite Values
+* np.isnan() → detects NaN (missing) values.
+* np.nan_to_num() → replaces NaN and infinite values with specified numbers.
+* np.isinf() → detects positive and negative infinity.
+
+  practice file:num_reshaping & manipulating.py  and    np_handling_missing&special_value.py
+
+
+
+
 
 
 
