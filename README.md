@@ -189,7 +189,6 @@ Another step forward in my Python & Data Analytics journey!
 
 practice file:np_indexing&slicing.py
 
-
  Day 12-Data Analytics Learning Journey
 NumPy – Reshaping, Flattening & Handling Missing Values
 Today I practiced some useful NumPy operations for working with arrays.
@@ -209,6 +208,25 @@ Flattening converts a multidimensional array into a 1D array.
 * np.isinf() → detects positive and negative infinity.
 
   practice file:num_reshaping & manipulating.py  and    np_handling_missing&special_value.py
+
+
+
+ Day 13-Data Analytics Learning Journey
+Today I learned several important NumPy concepts for Data Analytics:
+
+* np.insert() – inserting elements at a specific position.
+* np.append() – adding elements to the end of an array.
+* np.concatenate() – joining two or more arrays.
+* np.delete() – removing elements from an array.
+* vstack() and hstack() – vertically and horizontally stacking arrays.
+* split() – dividing an array into multiple smaller arrays.
+* Applied NumPy to calculate discounts on prices.
+* Learned Broadcasting and its rules for performing operations between arrays of different shapes.
+* Learned Vectorization, which allows calculations on arrays without using explicit loops.
+
+These concepts are helping me understand how NumPy is used for efficient numerical operations in Data Analytics.
+
+ Practice File:Advanced_numpy.py
 
 
 
