@@ -228,6 +228,31 @@ These concepts are helping me understand how NumPy is used for efficient numeric
 
  Practice File:Advanced_numpy.py
 
+Day 14-Data Analytics Learning Journey
+
+Today I started learning Matplotlib, a popular Python library used for data visualization.
+
+Topics Learned
+
+* Imported matplotlib.pyplot` and understood the use of `plt`
+* Created Line Charts using plt.plot()
+* Added titles and axis labels using plt.title(), plt.xlabel(), and plt.ylabel()
+* Learned chart customization using colors, line styles, markers, and line width
+* Used legend(), grid(), xlim(), ylim(), and xticks()
+* Created Bar Charts using plt.bar() and plt.barh()
+* Created Pie Charts using plt.pie()
+* Created Histograms using plt.hist()
+* Understood when to use different charts for data analysis
+
+*Line Chart → Analyze trends
+* Bar Chart → Compare categories
+* Pie Chart → Show proportions/contributions
+* Histogram → Understand numerical data distribution
+
+This is another step forward in my Python -Data Analytics learning journey.
+Practice File:matplot1.py
+
+
 
 
 
