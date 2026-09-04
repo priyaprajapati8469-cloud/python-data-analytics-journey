@@ -252,7 +252,7 @@ Topics Learned
 This is another step forward in my Python -Data Analytics learning journey.
 Practice File:matplot1.py
 
-Day 14-Data Analytics Learning Journey
+Day 15-Data Analytics Learning Journey
 
 Today I practiced intermediate Matplotlib concepts focused on data visualization and comparison.
 
