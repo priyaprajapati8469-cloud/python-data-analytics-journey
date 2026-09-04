@@ -252,6 +252,28 @@ Topics Learned
 This is another step forward in my Python -Data Analytics learning journey.
 Practice File:matplot1.py
 
+Day 14-Data Analytics Learning Journey
+
+Today I practiced intermediate Matplotlib concepts focused on data visualization and comparison.
+
+Topics Covered
+* Scatter plots using plt.scatter()
+* Understanding relationships between two variables
+* Customizing plots with markers, colors, labels, and grids
+* Comparing multiple datasets using scatter plots
+* Creating subplots with plt.subplot()
+* Creating multiple plots using plt.subplots()
+* Working with fig and ax
+* Combining line and bar charts in a single figure
+* Setting individual subplot titles
+* Adding an overall figure title using fig.suptitle()
+* Adjusting layouts using plt.tight_layout()
+* Introduction to saving figures using plt.savefig()
+
+This practice improved my understanding of how Matplotlib can be used to present data clearly and effectively for Data Analytics and Data Visualization.
+
+Practice File:scatterplot.py
+
 
 
 
